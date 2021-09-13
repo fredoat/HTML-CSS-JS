@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+}
+button{
+    padding: 15px;
+    border: none;
+    border-radius: 12px;
+    font-size:1rem;
+}
+div{
+    margin-top: 40vh;
+}
+h1:hover{
+    color: rebeccapurple;
+}
+button:hover{
+    color: #fff;
+    background-color: black;
+}
