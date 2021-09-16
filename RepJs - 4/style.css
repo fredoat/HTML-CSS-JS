@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+button{
+    padding: 10px;
+    border: none;
+    border-radius: 12px;
+}
