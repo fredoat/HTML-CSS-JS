@@ -41,6 +41,9 @@ input{
     padding: 8px;
     width: 50%;
 }
+input:focus{
+    outline: none;
+}
 #addTodoButton{
     border: none;
     font-size: 18px;
